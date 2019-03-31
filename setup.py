@@ -4,7 +4,8 @@ setup(
     name= 'bricewulib',
     version='1.0',
     author_email='xiaoxiaofeng1119@163.com',
-    url='https://mp.csdn.net/',
+    url='https://github.com/xiaoxiaofeng999/dabao_test.git/',
     description= 'this is a test lib',
+    license='MIT', 
     packages = ['test_package','test_package.test_package2']
 )
